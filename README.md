@@ -64,6 +64,7 @@ Options:
                                   Folder structure (default: {:%Y/%m/%d})
   --set-exif-datetime             Write the DateTimeOriginal exif tag from
                                   file creation date, if it doesn't exist.
+  --convert-jpg                   Convert downloaded HEIC images to JPG.
   --smtp-username <smtp_username>
                                   Your SMTP username, for sending email
                                   notifications when two-step authentication
